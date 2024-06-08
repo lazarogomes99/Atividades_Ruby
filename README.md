@@ -26,7 +26,7 @@ Bem-vindo ao repositório do curso **Formação Acelerada em Programação** com
 
 1. Clone este repositório para o seu computador:
    ```sh
-   git clone https://github.com/lazarogomes99/Formacao_Acelerada_Programacao.git
+   git clone https://github.com/lazarogomes99/Atividades_Ruby.git
    ```
 2. Navegue até a pasta desejada e execute os arquivos Ruby:
    ```sh
