@@ -22,17 +22,7 @@ Bem-vindo ao repositório do curso **Formação Acelerada em Programação** com
 
 - [Lista01](Logica_de_Progamacao/Lista01/)
 
-## Como Usar Este Repositório
 
-1. Clone este repositório para o seu computador:
-   ```sh
-   git clone https://github.com/lazarogomes99/Atividades_Ruby.git
-   ```
-2. Navegue até a pasta desejada e execute os arquivos Ruby:
-   ```sh
-   cd exercicios/logica_programacao
-   ruby exercicio1.rb
-   ```
 
 ---
 
