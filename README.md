@@ -20,7 +20,7 @@ Bem-vindo ao repositório do curso **Formação Acelerada em Programação** com
 
 ### Lógica de Programação com Ruby
 
-- [Lista01](Logica_de_Programacao/Lista01)
+- [Lista01](Logica_de_Progamacao/Lista01/)
 
 ## Como Usar Este Repositório
 
