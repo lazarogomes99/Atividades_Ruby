@@ -22,8 +22,6 @@ Bem-vindo ao repositório do curso **Formação Acelerada em Programação** com
 
 - [Lista01](Logica_de_Progamacao/Lista01/)
 
-
-
 ---
 
 Este repositório é mantido por [Lázaro Gomes](https://pinkary.com/@lazaro_gomes).
