@@ -11,6 +11,7 @@ especialidade."
 <h3>Modelo Conceitual</h3>
 
 Identificado as entidades e atributos: 
+
     Bebê: 
     nome, data de nascimento, peso no nascimento, altura
 
