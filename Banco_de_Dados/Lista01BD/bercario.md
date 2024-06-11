@@ -23,18 +23,19 @@ Identificado as entidades e atributos:
 
 <h4>Modelo conceitual</h4>
 
-    ![conceitualBercario](https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/ec50762c-ce63-432e-995c-51d98010bb1e)
+   <img width="600" alt="modelo conceitual" src="https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/ec50762c-ce63-432e-995c-51d98010bb1e">
 
 
 <h4>Modelo Lógico</h4>
 
-    ![logicoBercario](https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/d41dba54-f9cb-4c53-ada8-3cc57ff24bf9)
+  <img width="600" alt="modelo logico"  src="https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/d41dba54-f9cb-4c53-ada8-3cc57ff24bf9">
 
 
 <h4>Modelo Físico</h4>
 
    [Link de acesso ao schema SQL](https://gist.github.com/lazarogomes99/02a15e54b280698e52e99b8bcf26fbd6)
-   <img width="450" alt="schemasql" src="https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/6cfe7ac3-4a23-4482-bbc9-74b4df2906ea">
+   
+   <img width="600" alt="schemasql" src="https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/6cfe7ac3-4a23-4482-bbc9-74b4df2906ea">
 
 
 
