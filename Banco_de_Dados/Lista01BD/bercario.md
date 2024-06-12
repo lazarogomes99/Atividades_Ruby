@@ -28,7 +28,8 @@ Identificado as entidades e atributos:
 
 <h4>Modelo Lógico</h4>
 
-  <img width="600" alt="modelo logico"  src="https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/d41dba54-f9cb-4c53-ada8-3cc57ff24bf9">
+  <img width="600" alt="modelo logico" src="https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/0c7648f7-d857-4057-a930-37eaacde57b6">
+
 
 
 <h4>Modelo Físico</h4>
