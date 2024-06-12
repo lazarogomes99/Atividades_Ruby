@@ -23,7 +23,8 @@ Identificado as entidades e atributos:
 
 <h4>Modelo conceitual</h4>
 
-   <img width="600" alt="modelo conceitual" src="https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/ec50762c-ce63-432e-995c-51d98010bb1e">
+   <img width="600" alt="modelo conceitual" src="https://github.com/lazarogomes99/FAP-Softex-2024-Ruby-on-Rails/assets/104474707/b36ab2f3-0bb6-40c0-82f1-511e889640a1">
+
 
 
 <h4>Modelo Lógico</h4>
