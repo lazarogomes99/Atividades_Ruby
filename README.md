@@ -21,11 +21,11 @@ Bem-vindo ao repositório do curso **Formação Acelerada em Programação** com
 ### Lógica de Programação com Ruby
 
 - [Lista01](Logica_de_Progamacao/Lista01/)
+- [Lista02](Logica_de_Progamacao/Lista02/)
 
 ### Noções de banco de dados
 
 - [Lista01](Banco_de_Dados/Lista01BD/)
-
 
 ---
 
