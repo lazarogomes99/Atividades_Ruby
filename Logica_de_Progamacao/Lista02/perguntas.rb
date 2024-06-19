@@ -34,42 +34,64 @@ end
 perguntar()
 =end
 
-def perguntar 
-    perguntas = [
+    # perguntas.each do |pergunta|
+    #   puts pergunta
+    #   resposta = gets.chomp.downcase
+  
+    #   if resposta == 'sim'
+    #     pontuacao += 1
+    #   end
+    # end
+
+$perguntas = [
       "Telefonou para a vítima?",
       "Esteve no local do crime?",
       "Mora perto da vítima?",
       "Devia para a vítima?",
       "Já trabalhou com a vítima?"
-    ]
-    pontuacao = 0
-  
-    perguntas.each do |pergunta|
-      puts pergunta
-      resposta = gets.chomp.downcase
-  
-      if resposta == 'sim'
-        pontuacao += 1
-      end
-    end
-  
-    puts "Pontuação final: #{pontuacao}"
-  
-    case pontuacao
-    when 5
-      puts "Assassino"
-    when 3..4
-      puts "Cúmplice"
-    when 2
-      puts "Suspeita"
-    else
-      puts "Inocente"
+]
+
+$perguntasFeitas = 0
+$pontuacao = 0
+
+def perguntar
+
+  if $perguntasFeitas <= $perguntas.size
+    p $perguntas[$perguntasFeitas]
+    $perguntasFeitas += 1
+    resposta = gets.chomp.downcase
+    if resposta == 'sim'
+      $pontuacao += 1
     end
   end
+
+  if $perguntasFeitas < $perguntas.size
+    perguntar()
+  else
+    mostrarPontuacaoFinal()
+  end
+end
   
-  puts "Responda as perguntas com 'sim' ou com 'não': "
-  perguntar()
+
+
+def mostrarPontuacaoFinal
+  puts "Pontuação final: #{$pontuacao}"
   
+  case $pontuacao
+  when 5
+    puts "Assassino"
+  when 3..4
+    puts "Cúmplice"
+  when 2
+    puts "Suspeita"
+  else
+    puts "Inocente"
+  end
+end
+  
+puts "Responda as perguntas com 'sim' ou com 'não': "
+perguntar()
+
 
 
 
